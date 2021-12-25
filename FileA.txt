@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 "File A" 
-=======
-"File A -v2" 
->>>>>>> feature
+

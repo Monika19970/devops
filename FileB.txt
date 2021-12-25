@@ -1,1 +1,1 @@
-"This is File B -version feature branch" 
+"File b is this" 

@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 "File B" 
 
+=======
+"File B -v2 -merge2" 
+>>>>>>> feature
 =======
 "File B -v2 -merge2" 
 >>>>>>> feature

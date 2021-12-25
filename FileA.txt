@@ -1,11 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 "File A" 
 
-
-=======
-"File A -v2 -merge4" 
->>>>>>> feature
-=======
-"File A -v2 -merge4" 
->>>>>>> feature
